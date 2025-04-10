@@ -1,6 +1,3 @@
-Here’s your updated, humanized `README.md` for **PrayStreak**, with all Firebase references removed and a more natural tone:
-
----
 
 # PrayStreak
 
@@ -32,7 +29,7 @@ Here’s your updated, humanized `README.md` for **PrayStreak**, with all Fireba
 
 ## 📸 Screenshots
 
-*Coming soon... stay tuned!*
+
 
 ---
 
