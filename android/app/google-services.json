@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795188917033",
+    "project_id": "praystreak",
+    "storage_bucket": "praystreak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795188917033:android:772fe75b66ee912039bd38",
+        "android_client_info": {
+          "package_name": "com.example.praystreak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXIctB_fZw63h3Y_HR8qDi9iSEiTH26FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
