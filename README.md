@@ -4,6 +4,7 @@
 **PrayStreak** is a simple and clean Flutter app designed to help Muslims track their daily prayers and build consistency. Whether you're trying to improve your prayer habits or just want a gentle reminder, this app helps you stay on track.
 
 ---
+**You can check APK in the release folder**  
 
 ## 🌙 Features
 
