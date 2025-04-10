@@ -1,64 +1,75 @@
+Here’s your updated, humanized `README.md` for **PrayStreak**, with all Firebase references removed and a more natural tone:
+
+---
+
 # PrayStreak
 
-A Flutter app to help Muslims track their daily prayers, maintain streaks, and build consistency in their prayer habits.
+**PrayStreak** is a simple and clean Flutter app designed to help Muslims track their daily prayers and build consistency. Whether you're trying to improve your prayer habits or just want a gentle reminder, this app helps you stay on track.
 
-## Features
+---
 
-- **Prayer Tracking**: Log your five daily prayers (Fajr, Dhuhr, Asr, Maghrib, Isha)
-- **Streak Tracking**: Build and maintain a streak of consistent prayers
-- **Statistics**: View detailed statistics about your prayer performance
-- **Minimalist UI**: Clean, distraction-free interface focused on the essential
-- **User Authentication**: Secure login and signup functionality
-- **Profile Management**: Update profile information and change password
+## 🌙 Features
 
-## Screenshots
+- **Track All 5 Daily Prayers**  
+  Mark Fajr, Dhuhr, Asr, Maghrib, and Isha with a simple tap.
 
-[Screenshots will be added soon]
+- **Prayer Streaks**  
+  See how consistent you've been and challenge yourself to keep the streak going.
 
-## Firebase Setup
+- **Prayer Stats**  
+  Get an overview of your prayer activity over time.
 
-This project uses Firebase for authentication and database. Follow these steps to complete the setup:
+- **Clean & Minimalist UI**  
+  A simple, distraction-free design focused on helping you stay consistent.
 
-1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
-2. Add an Android app with package name `com.example.praystreak` (or your custom package name)
-3. Download the `google-services.json` file and place it in the `android/app/` directory
-4. Add an iOS app (if needed) and follow the instructions to download and place the `GoogleService-Info.plist` file
-5. Enable the Authentication and Firestore services in your Firebase project
-6. Run `flutter pub get` to install all dependencies
+- **Account System (Local for Now)**  
+  Basic login and signup functionality (can be swapped with Firebase or any backend later).
 
-## Getting Started
+- **Edit Profile**  
+  Update your name, email, and password with ease.
 
-1. Clone the repository
-2. Set up the Firebase project as described above
-3. Run the app with `flutter run`
+---
 
-## Project Structure
+## 📸 Screenshots
 
-- `lib/screens/` - Contains all the screen UI files
-- `lib/models/` - Data models for the application
-- `lib/services/` - Service classes for authentication and prayer tracking
-- `lib/widgets/` - Reusable UI components
-- `lib/constants/` - App constants, theme settings, etc.
+*Coming soon... stay tuned!*
 
-## Contributing
+---
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🚀 Getting Started
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Clone this repository to your local machine  
+   `git clone https://github.com/your-username/praystreak.git`
 
-## License
+2. Open the project in your favorite Flutter IDE (like VS Code or Android Studio)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+3. Run:  
+   `flutter pub get` – to install all the dependencies  
+   `flutter run` – to launch the app on your emulator or device
 
-## Acknowledgments
+---
 
-- Inspired by habit tracking apps and the importance of regular prayer in Islam
-- Special thanks to the Flutter and Firebase communities for their excellent documentation
+## 🗂️ Project Structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+lib/
+├── screens/       # All app screens (Home, Login, etc.)
+├── models/        # Data models (e.g., prayer data)
+├── services/      # Logic for handling user actions, data storage
+├── widgets/       # Reusable UI elements
+├── constants/     # App-wide constants like colors, styles
+```
+
+---
+
+## 🤝 Contributing
+
+Got ideas or want to help out? Contributions are more than welcome!
+
+1. Fork the repo
+2. Create a new branch (`git checkout -b feature/cool-feature`)
+3. Commit your changes (`git commit -m 'Add cool feature'`)
+4. Push to your branch (`git push origin feature/cool-feature`)
+5. Open a Pull Request and let's chat!
+
+---
