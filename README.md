@@ -30,7 +30,7 @@
 
 ## 📸 Video
 
-[▶ Watch Demo](assets/praystreak.gif)
+![video of project](assets/praystreak.gif)
 
 ---
 
