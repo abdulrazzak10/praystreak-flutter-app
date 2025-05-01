@@ -30,7 +30,7 @@
 
 ## 📸 Video
 
-[▶ Watch Demo](praystreek.mp4)
+[▶ Watch Demo](praystreek.gif)
 
 ---
 
