@@ -28,9 +28,9 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Video
 
-
+[▶ Watch Demo](praystreak.mp4)
 
 ---
 
